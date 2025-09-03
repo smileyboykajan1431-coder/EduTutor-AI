@@ -1,0 +1,32 @@
+EduTutor AI -
+
+
+----> Here a user can be a student or Lecture.
+
+----> Here we can generate quiz, go through a student quiz performance.
+
+----> Functionalizes Quiz generation, Student Dashboard
+
+----> LLM is a model which is trained on large amount data (From Internet, books) it tries to understand a patten and the quires.
+
+----> The generative ai application is built on LLMs (Brian).
+
+Fronted User is asking a Question
+
+Backend LLM (Brain) is Responding to that question. (Granite)
+
+LLM Large Language Model.
+
+Use this LLM Model
+
+--> API Hugging face API / IBM Cloud API
+
+--> Download -
+
+---> Parameters It helps our model to answer.
+
+---> ML 10 to 20 Parameters
+
+---> LLM 2B< Parameters
+
+---> ibm-granite/granite-3.2-2b-instruct(size 10 GB) It is small and fast.
